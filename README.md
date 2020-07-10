@@ -1,7 +1,7 @@
 # Uri_paper_MK
 
 
-**Scripts for generating the figures in Uri's first draft of his manuscript**
+**Scripts for generating the figures in Uri's first draft of his manuscript + plots for reviewers' comments**
 
 *FIGURE X* and *Supplementary Extended Data Figure X* notebooks match up with the first draft of Uri's manuscript  
 
