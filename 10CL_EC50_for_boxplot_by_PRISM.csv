@@ -1,0 +1,11 @@
+,Cell line,EC50 (nM),,t-test (one-sided),Wilcox (one-sided)
+Aneuploid,A101D,8.898,,0.026042186,p=0.01587
+Aneuploid,MDAMB468,12.04,,,
+Aneuploid,NCIH1693,9.175,,,
+Aneuploid,PANC0813,13.39,,,
+Aneuploid,SH10TC,10.8,,,
+Diploid,CAL51,32.7,,,
+Diploid,EN,15.58,,,
+Diploid,MHHNB11,10.99,,,
+Diploid,SW48,17.84,,,
+Diploid,VMCUB1,19.79,,,
