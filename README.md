@@ -57,7 +57,3 @@ link to published paper: (when available)
 **Supplementary Table 8**: Association between aneuploidy levels and KIF18A mRNA and protein expression levels.  
 
 
-
-Link to reviewer plots on google drive:  https://drive.google.com/drive/folders/1fyOeWKDZewkAOwb75jKaXVIG9PawEoVy?usp=sharing  
-Link to figures from first draft: https://drive.google.com/file/d/1NzzHlNVUSdIuw-bA-FbLHohmlOrTpWWm/view?usp=sharing
-
