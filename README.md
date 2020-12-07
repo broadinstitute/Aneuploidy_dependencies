@@ -1,6 +1,6 @@
 # *Aneuploidy-induced cancer vulnerability to mitotic checkpoint inhibition*
 
-### **This repo contains some of the analysis done for the paper *Aneuploidy-induced cancer vulnerability to mitotic checkpoint inhibition* by Cohen-Sharir et al. **
+### This repo contains some of the analysis done for the paper *Aneuploidy-induced cancer vulnerability to mitotic checkpoint inhibition* by Cohen-Sharir et al. 
 
 link to bioRxiv: https://www.biorxiv.org/content/10.1101/2020.06.18.159038v1.full   
 link to published paper: (when available)
