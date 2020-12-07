@@ -52,9 +52,9 @@ link to published paper: (when available)
 **Supplementary Table 5**: Chemical sensitivities of highly-aneuploid cancer cells.
 - code for Limma runs found in limma/drug_comparisons. Files: using_limma_CTD.R, using_limma_GDSC.R, using_limma_prism.R
 
-**Supplementary Table 6**: Cancer cell line sensitivity to the SAC inhibitor reversine.
-**Supplementary Table 7**: Gene expression profiles of HCT116 and HPT cells exposed to SAC inhibitors.
-**Supplementary Table 8**: Association between aneuploidy levels and KIF18A mRNA and protein expression levels. 
+**Supplementary Table 6**: Cancer cell line sensitivity to the SAC inhibitor reversine.  
+**Supplementary Table 7**: Gene expression profiles of HCT116 and HPT cells exposed to SAC inhibitors.  
+**Supplementary Table 8**: Association between aneuploidy levels and KIF18A mRNA and protein expression levels.  
 
 
 
