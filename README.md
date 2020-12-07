@@ -7,7 +7,7 @@ link to published paper: (when available)
 
 *FIGURE X* and *Supplementary Extended Data Figure X* notebooks match up with the published version of the manuscript  
 
-### Brief description of the figures and code availability:
+## Brief description of the figures and code availability:
 
 **Figure 1**: Differential sensitivity of aneuploid cancer cells to inhibition of the spindle assembly checkpoint.
 - code available for 1b, 1d-h  
@@ -39,7 +39,7 @@ link to published paper: (when available)
 **Extended Data Figure 10**: Increased sensitivity of aneuploid cells to KIF18A inhibition.
 - code available for 10a-i
 
-### Brief description of the tables and code availability:
+## Brief description of the tables and code availability:
 
 **Supplementary Table 1**: Chromosome-arm copy number calls and aneuploidy scores for 997 human cancer cell lines.  
 **Supplementary Table 2**: Genetic dependencies of highly-aneuploid cancer cells.
