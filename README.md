@@ -58,6 +58,9 @@
 
 **Supplementary Table 6**: Cancer cell line sensitivity to the SAC inhibitor reversine.  
 **Supplementary Table 7**: Gene expression profiles of HCT116 and HPT cells exposed to SAC inhibitors.  
-**Supplementary Table 8**: Association between aneuploidy levels and KIF18A mRNA and protein expression levels.  
+**Supplementary Table 8**: Association between aneuploidy levels and KIF18A mRNA and protein expression levels.
+
+
+Code written by: Mariya Kazachkova and James McFarland (contact: *jmmcfarl -at- broadinstitute.org*)
 
 
