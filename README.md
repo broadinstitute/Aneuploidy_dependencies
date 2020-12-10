@@ -42,6 +42,10 @@
 ## Brief description of the tables and code availability:
 
 **Supplementary Table 1**: Chromosome-arm copy number calls and aneuploidy scores for 997 human cancer cell lines.  
+- "make_CCLE_arm_calls.R" takes the CCLE2 published ABSOLUTE data as input and calls the number of arm-level CNAs for each cell line (*anueploidy score*).
+- "make_aneuploidy_calls.R" takes that output and calls the 'many_arm_events' column based on the upper and lower quantiles.  
+
+
 **Supplementary Table 2**: Genetic dependencies of highly-aneuploid cancer cells.
  - code for Limma runs found in Limma folder. Files: limma_drive.R and limma_achilles.R for Drive and Achilles, respectively
 
