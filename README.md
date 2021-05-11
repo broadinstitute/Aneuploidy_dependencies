@@ -2,8 +2,8 @@
 
 ### This repo contains some of the analysis done for the paper *Aneuploidy-induced cancer vulnerability to mitotic checkpoint inhibition* by Cohen-Sharir et al. 
 
+- link to paper in Nature: https://www.nature.com/articles/s41586-020-03114-6
 - link to bioRxiv: https://www.biorxiv.org/content/10.1101/2020.06.18.159038v1.full   
-- link to published paper: (when available)
 
 *FIGURE X* and *Supplementary Extended Data Figure X* notebooks match up with the published version of the manuscript  
 
