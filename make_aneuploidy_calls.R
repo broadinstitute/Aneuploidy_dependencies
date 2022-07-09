@@ -49,6 +49,14 @@ arm_CNVs_df %<>%
             by = 'DepMap_ID')
 
 write_csv(arm_CNVs_df, '~/CPDS/data/CCLE/aneuploidy_data.csv')
+
+
+#merge in ploidy and WGD info and save out for taiga upload
+CCLE_abs_table <- load.from.taiga(data.name='ccle-absolute-cn', data.version=5, data.file='CCLE_ABSOLUTE_combined_table')
+
 arm_CNVs_df %>% 
-    dplyr::select(DepMap_ID, num_arm_events) %>% 
+    dplyr::select(DepMap_ID, `Aneuploidy score` = num_arm_events) %>% 
+    left_join(CCLE_abs_table %>% 
+                dplyr::select(DepMap_ID, Ploidy = ploidy, `Genome doublings`),
+              by = 'DepMap_ID') %>% 
     write_csv('~/CPDS/data/CCLE/aneuploidy_data_for_taiga.csv')
